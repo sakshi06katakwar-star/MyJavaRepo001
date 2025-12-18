@@ -1,3 +1,3 @@
 # MyJavaRepo001
-This is my Java repository
+This is my Java repository.
 Author - Sakshi Katakwar
